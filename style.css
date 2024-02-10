@@ -1,0 +1,40 @@
+.container {
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.button {
+    height: 100px;
+    font-size: 36px;
+    border-radius: 20px;
+    background-color: bisque;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.list-element {
+    font-size: 30px;
+}
+
+.link-container {
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+    justify-content: space-evenly;
+    margin-bottom: 100px;
+}
+
+#link {
+    font-size: 36px;
+}
+
+.input {
+    font-size: 36px;
+}
